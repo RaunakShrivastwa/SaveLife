@@ -19,30 +19,40 @@ Welcome to HealthHub! This platform is designed to provide comprehensive health 
 - **Home:** Landing page displaying various health routines and services.
 ![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/8a5ff2e9-48ac-4962-b1dc-c15546c2b71b)
 
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/db8b268d-9a22-4557-83c3-70c2432f6fcc)
 
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/d8ebd827-21c3-4922-a7bd-2ad07710c56f)
+
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/e14f20c5-1de0-4473-92a1-4487597ceacf)
+
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/45f150bc-e4f3-4191-baee-dcd57fb7ed18)
+
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/f042145a-8051-4b9f-8dc4-7c5e6e993c32)
+
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/ddda6991-45af-493d-8ec3-635ede5b110d)
 
 
 - **Service:** Details about different health services provided.
-![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/c6372d90-bb67-48e9-b692-5289567321d9)
+
 
 
 - **Blog:** User-generated blogs and feedback section.
-![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/1c7946cb-1e4e-49f8-961d-ba459751246b)
+
 
 
 - **Appointment:** Book appointments for consultations.
-![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/47df6736-7ea8-4f1b-aa37-23f29e14bc07)
+
 
 
 - **About:** Know More About Us.
-![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/9a6cb905-cd44-437f-87e2-c6dc0d2d570b)
+
 
 - **Logout:** Log out of the user session.
-![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/ce4fc2dc-f835-49d9-82c7-871dc02b750f)
+
 
 
 ## Footer:** The footer contains contact information and support details:
-![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/f541a308-fed0-425f-879e-3d273cb44052)
+
 
 
 
