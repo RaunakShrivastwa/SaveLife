@@ -33,26 +33,31 @@ Welcome to HealthHub! This platform is designed to provide comprehensive health 
 
 
 - **Service:** Details about different health services provided.
-
-
-
-- **Blog:** User-generated blogs and feedback section.
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/7cb660e2-4aa9-4f8a-82c2-58737134ea34)
 
 
 
 - **Appointment:** Book appointments for consultations.
-
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/cb39c351-d08b-4823-9913-1cc1b5eb8038)
 
 
 - **About:** Know More About Us.
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/945219be-442b-4645-ae42-fc1323548f52)
+
+
+- **Blog:** User-generated blogs and feedback section.
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/7fc4f6cd-4768-45b7-a6a1-36eedeb8c536)
 
 
 - **Logout:** Log out of the user session.
-
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/9cb7eccb-3acd-47a5-a1d2-a047c903c24c)
 
 
 ## Footer:** The footer contains contact information and support details:
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/d9879dc2-95eb-4260-be16-8e98825f216f)
 
+## Full page:** 
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/f5a0c2da-5369-4b33-9e46-0785640c585d)
 
 
 
