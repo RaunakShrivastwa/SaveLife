@@ -71,7 +71,7 @@ Welcome to SaveLife! This platform is designed to provide comprehensive health r
 ## Tech Stack
 
 - **Frontend:** Developed using React.js.
-- **Backend:** Built with Spring Boot.
+- **Backend:** Built with Node js.
 - **Database:** MongoDB for efficient data management.
 
 ## Getting Started
