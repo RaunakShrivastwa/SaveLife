@@ -1,6 +1,27 @@
-# HealthHub Website
 
+# SaveLife
 Welcome to HealthHub! This platform is designed to provide comprehensive health routines and support for individuals of all ages, catering specifically to older adults and the younger generation. HealthHub offers various features including routine planning, dietary guidance, exercise plans, and a platform for user-generated blogs and feedback.
+
+## Pages
+
+- **Login:** Users can log in using Passport.js, Google Auth, or GitHub authentication.
+![Login](path/to/login-image.png)
+- **Signup:** New users can register for an account.
+![Signup](path/to/signup-image.png)
+- **Home:** Landing page displaying various health routines and services.
+![Home](path/to/home-image.png)
+- **Service:** Details about different health services provided.
+![Service](path/to/service-image.png)
+- **Blog:** User-generated blogs and feedback section.
+![Blog](path/to/blog-image.png)
+- **Appointment:** Book appointments for consultations.
+![Appointment](path/to/appointment-image.png)
+- **Logout:** Log out of the user session.
+![Logout](path/to/logout-image.png)
+
+## Footer
+
+The footer contains contact information and support details:
 
 ## Features
 
@@ -21,7 +42,7 @@ Welcome to HealthHub! This platform is designed to provide comprehensive health 
 To run this project locally, follow these steps:
 
 1. **Clone Repository:**
-git clone https://github.com/your-username/healthhub.git
+git clone https://github.com/RaunakShrivastwa/SaveLife.git
 
 2. **Setup Backend:**
 - Navigate to the `backend` directory.
