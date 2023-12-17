@@ -1,0 +1,65 @@
+nav {
+    background-image: linear-gradient(to right,
+            rgba(18, 172, 142, 0.9),
+            rgba(18, 172, 142, 0.7)), url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK4zXH7wsIh4KeLNhjRnzdGPODdwmqdPk_qw&usqp=CAU');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+.foot {
+    background-color: rgb(172, 215, 252);
+}
+
+.logo1 {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background-image: linear-gradient(to right,
+            rgba(18, 172, 142, 0.9),
+            rgba(18, 172, 142, 0.7)), url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK4zXH7wsIh4KeLNhjRnzdGPODdwmqdPk_qw&usqp=CAU');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.logo1 .p-3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.text-danger {
+    color: red;
+    /* Change this to your desired text color */
+}
+
+/* Hide radio buttons */
+.rating input {
+    display: none;
+  }
+  
+  /* Style labels as stars */
+  .rating label {
+    display: inline-block;
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    background-image: url('https://cdn-icons-png.flaticon.com/128/1828/1828884.png'); /* Replace with your star icon */
+    background-size: cover;
+  }
+  
+  /* Style for unchecked stars */
+  .rating label::before {
+    content: '\2605'; /* Unicode character for an empty star or replace with an empty star icon */
+  }
+  
+  /* Style for checked stars */
+  .rating input:checked ~ label::before {
+    content: '\2605'; /* Unicode character for a filled star or replace with a filled star icon */
+  }
+  
