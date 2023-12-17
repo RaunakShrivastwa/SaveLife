@@ -14,21 +14,45 @@ Welcome to HealthHub! This platform is designed to provide comprehensive health 
 
 
 - **Signup:** New users can register for an account.
-![Signup](path/to/signup-image.png)
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/7f49a292-46fb-4bb0-b633-241023f3ecb8)
+
 - **Home:** Landing page displaying various health routines and services.
-![Home](path/to/home-image.png)
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/02c19537-ceba-4b46-b23c-063901e89554)
+
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/a8cc8cba-2054-421b-ac8b-a2be479bba69)
+
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/083c9913-f9d0-4289-82d6-f5682be789c1)
+
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/415290ab-25bd-4e9d-b8e8-f5f8a7bcfe4c)
+
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/1aef84cb-f545-41a8-b9b3-47a4beea29b2)
+
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/3b597561-2462-4131-947b-30b2ce2256b6)
+
+
 - **Service:** Details about different health services provided.
-![Service](path/to/service-image.png)
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/c6372d90-bb67-48e9-b692-5289567321d9)
+
+
 - **Blog:** User-generated blogs and feedback section.
-![Blog](path/to/blog-image.png)
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/1c7946cb-1e4e-49f8-961d-ba459751246b)
+
+
 - **Appointment:** Book appointments for consultations.
-![Appointment](path/to/appointment-image.png)
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/47df6736-7ea8-4f1b-aa37-23f29e14bc07)
+
+
+- **About:** Know More About Us.
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/9a6cb905-cd44-437f-87e2-c6dc0d2d570b)
+
 - **Logout:** Log out of the user session.
-![Logout](path/to/logout-image.png)
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/ce4fc2dc-f835-49d9-82c7-871dc02b750f)
 
-## Footer
 
-The footer contains contact information and support details:
+## Footer:** The footer contains contact information and support details:
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/f541a308-fed0-425f-879e-3d273cb44052)
+
+
 
 ## Features
 
