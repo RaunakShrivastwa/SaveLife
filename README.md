@@ -5,7 +5,8 @@ Welcome to HealthHub! This platform is designed to provide comprehensive health 
 ## Pages
 
 - **Login:** Users can log in using Passport.js, Google Auth, or GitHub authentication.
-![Login](path/to/login-image.png)
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/725d64e4-c91d-4038-81a2-b9a0238bf0d4)
+
 - **Signup:** New users can register for an account.
 ![Signup](path/to/signup-image.png)
 - **Home:** Landing page displaying various health routines and services.
