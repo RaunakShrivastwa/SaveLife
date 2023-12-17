@@ -23,7 +23,8 @@ Welcome to HealthHub! This platform is designed to provide comprehensive health 
 
 ![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/d8ebd827-21c3-4922-a7bd-2ad07710c56f)
 
-![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/e14f20c5-1de0-4473-92a1-4487597ceacf)
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/9dc93bd7-7dd3-42b1-805e-3c754c2aaa98)
+
 
 ![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/45f150bc-e4f3-4191-baee-dcd57fb7ed18)
 
