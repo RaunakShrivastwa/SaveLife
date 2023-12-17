@@ -17,10 +17,7 @@ Welcome to HealthHub! This platform is designed to provide comprehensive health 
 ![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/7f49a292-46fb-4bb0-b633-241023f3ecb8)
 
 - **Home:** Landing page displaying various health routines and services.
-  ![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/8abd76a4-c72a-4adb-882e-100bd951552f)
-
-  ![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/b7fc63d4-0480-41a7-b4a4-611e316e2151)
-
+ ![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/6bb1cd73-f87b-4a09-82e7-6e08fd1276c0)
 
 
 
