@@ -17,17 +17,11 @@ Welcome to HealthHub! This platform is designed to provide comprehensive health 
 ![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/7f49a292-46fb-4bb0-b633-241023f3ecb8)
 
 - **Home:** Landing page displaying various health routines and services.
-![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/02c19537-ceba-4b46-b23c-063901e89554)
+  ![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/8abd76a4-c72a-4adb-882e-100bd951552f)
 
-![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/a8cc8cba-2054-421b-ac8b-a2be479bba69)
+  ![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/b7fc63d4-0480-41a7-b4a4-611e316e2151)
 
-![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/083c9913-f9d0-4289-82d6-f5682be789c1)
 
-![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/415290ab-25bd-4e9d-b8e8-f5f8a7bcfe4c)
-
-![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/1aef84cb-f545-41a8-b9b3-47a4beea29b2)
-
-![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/3b597561-2462-4131-947b-30b2ce2256b6)
 
 
 - **Service:** Details about different health services provided.
