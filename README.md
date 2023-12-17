@@ -34,7 +34,8 @@ Welcome to HealthHub! This platform is designed to provide comprehensive health 
 
 
 - **Service:** Details about different health services provided.
-![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/7cb660e2-4aa9-4f8a-82c2-58737134ea34)
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/0c8fbf2a-a348-442f-8486-951bef1bfb49)
+
 
 
 
