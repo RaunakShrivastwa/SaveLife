@@ -1,6 +1,6 @@
 
 # SaveLife
-Welcome to SaveLife! This platform is designed to provide comprehensive health routines and support for individuals of all ages, catering specifically to older adults and the younger generation. HealthHub offers various features including routine planning, dietary guidance, exercise plans, and a platform for user-generated blogs and feedback.
+Welcome to SaveLife! This platform is designed to provide comprehensive health routines and support for individuals of all ages, catering specifically to older adults and the younger generation. SaveLife offers various features including routine planning, dietary guidance, exercise plans, and a platform for user-generated blogs and feedback.
 
 ## Pages
 
@@ -102,7 +102,7 @@ git clone https://github.com/RaunakShrivastwa/SaveLife.git
 
 ## Contribution
 
-Contributions are welcome! If you'd like to contribute to HealthHub:
+Contributions are welcome! If you'd like to contribute to SaveLife:
 - Fork the repository.
 - Create a new branch (`git checkout -b feature/awesome-feature`).
 - Make your changes and commit them (`git commit -am 'Add some feature'`).
@@ -112,5 +112,5 @@ Contributions are welcome! If you'd like to contribute to HealthHub:
 ## Support
 
 For any queries or assistance:
-- Email: support@healthhub.com
+- Email: support@SaveLife.com
 - Helpline: 0034112005530 (24/7 availability)
