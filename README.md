@@ -57,7 +57,8 @@ Welcome to SaveLife! This platform is designed to provide comprehensive health r
 
 
 ## Footer:** The footer contains contact information and support details:
-![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/d9879dc2-95eb-4260-be16-8e98825f216f)
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/e787cc7d-657d-44a1-8459-177fdd800eb9)
+
 
 ## Features
 
