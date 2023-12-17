@@ -40,7 +40,8 @@ Welcome to HealthHub! This platform is designed to provide comprehensive health 
 
 
 - **Appointment:** Book appointments for consultations.
-![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/cb39c351-d08b-4823-9913-1cc1b5eb8038)
+![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/afe79b84-4b90-44e9-ac38-b65841baa22b)
+
 
 
 - **About:** Know More About Us.
@@ -57,11 +58,6 @@ Welcome to HealthHub! This platform is designed to provide comprehensive health 
 
 ## Footer:** The footer contains contact information and support details:
 ![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/d9879dc2-95eb-4260-be16-8e98825f216f)
-
-## Full page:** 
-![image](https://github.com/RaunakShrivastwa/SaveLife/assets/121729066/f5a0c2da-5369-4b33-9e46-0785640c585d)
-
-
 
 ## Features
 
