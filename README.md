@@ -1,6 +1,6 @@
 
 # SaveLife
-Welcome to HealthHub! This platform is designed to provide comprehensive health routines and support for individuals of all ages, catering specifically to older adults and the younger generation. HealthHub offers various features including routine planning, dietary guidance, exercise plans, and a platform for user-generated blogs and feedback.
+Welcome to SaveLife! This platform is designed to provide comprehensive health routines and support for individuals of all ages, catering specifically to older adults and the younger generation. HealthHub offers various features including routine planning, dietary guidance, exercise plans, and a platform for user-generated blogs and feedback.
 
 ## Pages
 
